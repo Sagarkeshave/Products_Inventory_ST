@@ -44,7 +44,7 @@ def reduce_stock():
 
 # Function to increase Stock_On_Hand by 2 for products ending in even numbers
 def increase_stock_even():
-    st.session_state.product_data.loc[st.session_state.product_data['Product_Name'].str[-1].astype(int) % 2 == 1, 'Stock_On_Hand'] += 2
+    st.session_state.product_data.loc[st.session_state.product_data['Product_Name'].str[-1].astype(int) % 2 == 0, 'Stock_On_Hand'] += 2
 
 
 # Streamlit UI
