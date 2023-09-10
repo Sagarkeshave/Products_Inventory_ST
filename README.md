@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/Sagarkeshave/Products_Inventory_ST.git
-cd product-inventory-management
+cd Products_Inventory_ST
 ```
 
 ## Usage
