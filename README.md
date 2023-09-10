@@ -2,7 +2,7 @@
 
 A web-based product inventory management system using Streamlit, allowing users to generate and manipulate product data, all while persisting the data between interactions.
 
-![Demo](demo.gif)
+![Demo](https://github.com/Sagarkeshave/Products_Inventory_ST/blob/main/demo/ezgif.com-video-to-gif%20(3).gif)
 
 
 ## Features
