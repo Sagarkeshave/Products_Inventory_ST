@@ -71,6 +71,6 @@ if st.button("Reduce Stock On Hand by 2"):
 if st.button("Increase Stock On Hand for Even-Ending Names"):
     increase_stock_even()
 
-# Display 20 records per page
+# Display records
 st.write(st.session_state.product_data.head(40))
 
